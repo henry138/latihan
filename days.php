@@ -1,6 +1,6 @@
 <?php
 //tahap2
 
-$days = 7 ;
+$days = 8 ;
 
 ?>
