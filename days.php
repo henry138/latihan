@@ -1,5 +1,5 @@
 <?php
 sekarang hari apa? 
-kamis
+minggu
   
 ?>
